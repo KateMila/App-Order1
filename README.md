@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/le8rjlw7xwk9f6r5?svg=true)](https://ci.appveyor.com/project/KateMila/app-order1)
